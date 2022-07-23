@@ -2,6 +2,9 @@
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
+.odd.third-elem{
+    font-size: 24px;
+}
 #second-elem{
     color: blue;
     font-size: 36px;

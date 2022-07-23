@@ -2,3 +2,12 @@
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
+#second-elem{
+    color: blue;
+    font-size: 36px;
+}
+#fourth-elem{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
